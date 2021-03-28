@@ -12,7 +12,7 @@ public class TryCatch {
 			   System.out.println(e);
 		}
 		
-		
+		System.out.println("Code will run and will not stop");
 
 	}
 
